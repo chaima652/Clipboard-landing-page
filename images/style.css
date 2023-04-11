@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&family=Barlow:wght@600&family=Fraunces:wght@700;900&family=Outfit:wght@400;700&display=swap');
+:root {
+    --font-family: 'outfit',sans-serif;
+    --font-size: 18px;
+    --font-weight-normal:400;
+    --font-weight-bold:600;
+    /*colors*/
+    /*Primary*/
+--Strong-Cyan: hsl(171, 66%, 44%);
+--Light-Blue: hsl(233, 100%, 69%);
+
+    /*Neutral*/
+--Dark-Grayish-Blue: hsl(210, 10%, 33%);
+--Grayish-Blue: hsl(201, 11%, 66%);
+}
+body {
+ font-family: var(--font-family);
+ font-size: var(--font-size);
+ width: 100vw;
+ height: 100vh;
+}
+* {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+header .image {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin:0;
+    left: 0;
+    top: 0;
+}
+header  .header1 img {
+    margin-top: 100px;
+    margin-left: 600px;
+    width: 80px;
+    height: 80px;
+}
+.header2 h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+.header2 p {
+    text-align: center;
+    color: var(--Grayish-Blue);
+    margin-top: 20px;
+    width: 650px;
+    margin-left: 33c0PX;
+}
