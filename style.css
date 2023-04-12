@@ -450,10 +450,10 @@ nav .f-2 a:hover{
         text-align: center;
     }
     .sec-3 .m-1 img{
-        margin-left: -40px;
+        margin-left: -20px;
     }
     .sec-3 .m-1 h3{
-        margin-left: -40px;
+        margin-left: -20px;
     }
     .sec-3 .m-1 p{
         width: 350px;
@@ -464,10 +464,10 @@ nav .f-2 a:hover{
         margin-left: 20px;
     }
     .sec-3 .m-2 img{
-        margin-left: -40px;
+        margin-left: -20px;
     }
     .sec-3 .m-2 h3{
-        margin-left: -40px;
+        margin-left: -20px;
     }
     .sec-3 .m-2 p{
         width: 350px;
@@ -478,10 +478,10 @@ nav .f-2 a:hover{
         margin-left: 20px;
     }
     .sec-3 .m-3 img{
-        margin-left: -40px;
+        margin-left: -20px;
     }
     .sec-3 .m-3 h3{
-        margin-left: -40px;
+        margin-left: -20px;
     }
     .sec-3 .m-3 p{
         width: 350px;
@@ -562,4 +562,3 @@ nav .f-2 a:hover{
         margin-left: 170px;
     }
 }
-
