@@ -375,11 +375,11 @@ nav .f-2 a:hover{
         margin-left: 70px;
     }
     input[value="Download for Mac"]{
-        margin-top: 60px;
+        margin-top: 140px;
         margin-left: -500px;
     }
     input[value="Download for iOS"]{
-        margin-top: 130px;
+        margin-top: 200px;
         margin-left: -300px;
     }
     #header3 h2 { 
@@ -418,11 +418,15 @@ nav .f-2 a:hover{
         margin-left: 120px;
     }
     .sec-2 {
+      text-align: center;
+    }
+    .sec-2 h2 {
         text-align: center;
+        margin-left: 50px;
     }
     .sec-2 .Access p {
      text-align: center;
-     margin-left: 45px;
+     margin-left: 55px;
      width: 360px;
     }
     .sec-2 img {
@@ -430,8 +434,12 @@ nav .f-2 a:hover{
         width: 400px;  
         height: 300px;
     }
+    .sec-2 .supercharge h2 {
+        text-align: center;
+        margin-left: 50px;
+    }
       .sec-2 .supercharge P {
-        margin-left: 40px;
+        margin-left: 60px;
         width: 350px;
     }
     .sec-3 {
@@ -442,42 +450,42 @@ nav .f-2 a:hover{
         text-align: center;
     }
     .sec-3 .m-1 img{
-        margin-left: -60px;
+        margin-left: -40px;
     }
     .sec-3 .m-1 h3{
-        margin-left: -60px;
+        margin-left: -40px;
     }
     .sec-3 .m-1 p{
         width: 350px;
-        margin-left: 20px;
+        margin-left: 40px;
     }
     .sec-3 .m-2 {
         margin-top: 70px;
         margin-left: 20px;
     }
     .sec-3 .m-2 img{
-        margin-left: -60px;
+        margin-left: -40px;
     }
     .sec-3 .m-2 h3{
-        margin-left: -60px;
+        margin-left: -40px;
     }
     .sec-3 .m-2 p{
         width: 350px;
-        margin-left: 20px;
+        margin-left: 50px;
     }
     .sec-3 .m-3 {
         margin-top: 70px;
         margin-left: 20px;
     }
     .sec-3 .m-3 img{
-        margin-left: -60px;
+        margin-left: -40px;
     }
     .sec-3 .m-3 h3{
-        margin-left: -60px;
+        margin-left: -40px;
     }
     .sec-3 .m-3 p{
         width: 350px;
-        margin-left: 20px;
+        margin-left: 50px;
     }
    
     .sec-4 .google {
@@ -538,18 +546,20 @@ nav .f-2 a:hover{
         flex-direction: column; 
         margin-left: -50px;
     }
-    .f-1 img {
+    nav .f-1 img {
+        margin-left: 230px;
        padding-bottom: 20px; 
       
     }
     
     nav  ul li {
-        margin-left: -70px;
+        margin-left: -10px;
         margin-top: 15px;
     display: grid;
     }
     nav .f-2  {
         margin-top: 25px;
-        margin-left: 140px;
+        margin-left: 170px;
     }
 }
+
